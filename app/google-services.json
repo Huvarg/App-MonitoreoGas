@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385999874195",
+    "firebase_url": "https://gasdetectado-default-rtdb.firebaseio.com",
+    "project_id": "gasdetectado",
+    "storage_bucket": "gasdetectado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385999874195:android:d62c25d6f6f49d5fd70566",
+        "android_client_info": {
+          "package_name": "com.example.app_monitoreogas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385999874195-qtpb31b4jcfc6srov6b23u4vn1sll1k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAl9D_9p-W43ROvPe7YZgzSHHx0-knoo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385999874195-qtpb31b4jcfc6srov6b23u4vn1sll1k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
